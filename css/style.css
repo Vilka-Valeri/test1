@@ -31,3 +31,12 @@ footer {
 .section-orange h2 {
     font-size: 18px;
 }
+.section-green {
+    background: lightseagreen;
+    height: 100vh;
+    color:green;
+    padding: 32px;
+}
+.section-orange h2 {
+    font-size: 18x;
+}
