@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-size: 16px;
+    color:black;
 }
 a {
     color:#f0f;
@@ -11,4 +12,22 @@ footer {
 }
 .section-pink {
     background: pink;
+    height: 100vh;
+    padding: 32px;
+}
+.section-pink h2 {
+    font-size: 18px;
+}
+.section-pink img {
+    width:200px;
+    height: auto;
+}
+.section-orange {
+    background: orange;
+    height: 100vh;
+    color:green;
+    padding: 32px;
+}
+.section-orange h2 {
+    font-size: 18px;
 }
